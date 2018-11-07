@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BubbleSort1
+namespace Application1
 {
     class Program
     {
